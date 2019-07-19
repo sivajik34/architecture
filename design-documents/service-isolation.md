@@ -144,5 +144,7 @@ Schema migration tooling should be provided.
 * [Implementation](service-isolation/implementation.md)
 * [Roadmap | Backlog | Delivery](https://github.com/magento/service-isolation-backlog-wiki)
 
+## Reference
+* https://microservices.io/patterns/microservices.html
 
 
